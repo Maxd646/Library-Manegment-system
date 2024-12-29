@@ -8,7 +8,7 @@
 + :point_right: Student of Addis Ababa Science And Technology
 + :point_right: I’m currently learning sofware engineering and Backwnd Web development
 
-# :star_struck:** Skills**
+# :star_struck:**Skills**
 + Languages: JavaScrpit, PhP, Python, C++,
 + Framework: React, Next
 + Areas of Interest: Full-Stack Web Development and Machine Learning.
