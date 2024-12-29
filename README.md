@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @Maxd646
-- 👀 I’m interested in full web development
-- 🌱 I’m currently learning sofware engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Maxd646/Maxd646 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, I'm Daniel Kebede 👋
+I’m interested in full web development
+I’m currently learning sofware engineering
